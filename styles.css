@@ -1,0 +1,133 @@
+h1{
+    font-size: 10vw;
+    text-align: center;
+    text-shadow: 5px 5px goldenrod;
+}
+h2{
+    text-align: center;
+    font-size: 6vw;
+    text-shadow: 3px 2px goldenrod;
+}
+h4{
+    text-align: center;
+    font-size: 2rem;
+    text-shadow: 3px 2px goldenrod;
+}
+.bold{
+    font-size: x-large;
+    font-weight: 500;
+}
+.list{
+    font-size: x-large;
+}
+.lobster-regular {
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+body{
+     background-image: linear-gradient(to bottom right, whitesmoke,goldenrod, silver);
+     background-size: 100%;
+     background-repeat: no-repeat;
+     width: 85%;
+     margin:auto;
+}
+html{
+    background-image: url("./images/200w.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.listbox{
+    min-height: 100vh;
+    border: 2px solid;
+    border-color: black;
+    box-shadow: 5px 10px goldenrod;
+}
+.gridtext-center{
+    border: 5px solid;
+    border-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 10px;
+   
+    
+}
+.titlebox{
+    border: 5px solid black;
+    padding: 25px;
+    height: 65 vh;
+}
+.hbox{
+    border: 2px solid black;
+    box-shadow: 5px 10px goldenrod;
+}
+.box{
+    border: 2px solid;
+    border-color: black;
+    width: 175px;
+    height: 200px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 900;
+    box-shadow: 5px 5px goldenrod;
+
+}
+#b1{
+    background-image: url(./images/skill.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#b2{
+    background-image: url(./images/edu.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#b3{
+    background-image: url(./images/certificate.png);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#b4{
+    background-image: url(./images/workh.png);
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#sbox{
+    background-image: url(./images/Simon.png);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    width: 100px;
+    height: 100px;
+
+}
+.Me{
+        border: 5px solid ;
+        box-shadow: 5px 10px goldenrod;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;     
+}
+.imgfill{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60vh;
+    width: 60vw;
+}
+.imgsm{
+    height: 60vh;
+    width: 80vw;
+    border: 1px solid;
+    box-shadow: 2px 4px goldenrod;
+}
+.footbox{
+    border: 5px solid black;
+    height: 40px;
+}
